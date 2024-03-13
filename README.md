@@ -32,6 +32,6 @@ A lista deve ser paginada, com configuração de itens por página
 * Agrupar heróis por séries definidas pelo usuário
 * Agrupar heróis por data de primeira aparição definida pelo usuário ( range 1970-2020 )
 
-Inicie dando um fork nesse repositório e ao terminar envie um email para candidato@toutbox.com.br
+O candidato deve iniciar com um fork deste repositório e após terminar o desafio, realizar um pull request para análise.
 
 Boa sorte!
