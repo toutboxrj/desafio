@@ -8,6 +8,10 @@ O layout fica por conta do candidato, será avaliado o nível de usabilidade bem
 
 O desafio consiste de listar os principais herois da marvel através da api interativa disponibilizada em  https://developer.marvel.com/
 
+## Prazo Estimado
+
+O candidato deve ser capaz de entregar o desafio no prazo máximo 3 dias. 
+
 A lista deve incluir 
 
 * Descrição do Herói 
@@ -23,11 +27,11 @@ A lista deve ser paginada, com configuração de itens por página
 * Procurar por nome do Herói
 * Ordenar por nome do Herói
 
-## Super Bônus
+## Extra Mile
 
 * Agrupar heróis por séries definidas pelo usuário
 * Agrupar heróis por data de primeira aparição definida pelo usuário ( range 1970-2020 )
 
-Inicie dando um fork nesse repositório e ao terminar envie um email para atendimento@toutbox.com.br
+Inicie dando um fork nesse repositório e ao terminar envie um email para candidato@toutbox.com.br
 
 Boa sorte!
