@@ -1,6 +1,6 @@
 Desafio para a vaga de Desenvolvedor Frontend na toutbox
 
-Deve ser utilizado angular 10 e typescript para realizar o desenvolvimento.
+Deve ser utilizado angular 14+ e typescript para realizar o desenvolvimento.
 
 O layout fica por conta do candidato, será avaliado o nível de usabilidade bem como a parte técnica e boas praticas.
 
